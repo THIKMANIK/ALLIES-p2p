@@ -67,14 +67,7 @@ Send Messages
 
 
 Query Active Peers
-	•	Use the menu to query active peers. Choose an option: 2
-	•	[UDP Peer List]:
-	•	+---------------------+------------+
-	•	|      IP:PORT       | Team Name  |
-	•	+---------------------+------------+
-	•	| 127.0.0.1:5000     | peer1      |
-	•	| 127.0.0.1:6000     | peer2      |
-	•	+---------------------+------------+
+	•	Use the menu to query active peers. Choose an option: 2 
 	
 
 Connect to Active Peers
