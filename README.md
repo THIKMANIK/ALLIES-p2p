@@ -4,7 +4,7 @@ Team Name: ALLIES
 Team Members:
 	•	230001077,Thikmanik(Captain & Leader)
 	•	230001022, Darpan
-	•	230005052, Praneetha
+	•	230005025, Praneetha
 	•	230001028 , Rishita
 
 Bonus Question: YES, WE HAVE ANSWERED THE BONUS QUESTION. Our program implements a connect() function that allows peers to establish connections with active peers. When a peer connects to another peer, the connection is reflected in the peer table, and the connected peer is displayed when querying active peers.
